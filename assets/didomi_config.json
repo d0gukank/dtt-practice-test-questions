@@ -1,0 +1,13 @@
+{
+  "app": {
+    "name": "My App Name",
+    "privacyPolicyURL": "http://www.website.com/privacy",
+    "vendors": {
+      "iab": {
+        "all": true
+      }
+    },
+    "gdprAppliesGlobally": true,
+    "gdprAppliesWhenUnknown": true
+  }
+}
